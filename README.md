@@ -1,5 +1,8 @@
 # Quantitative and Dynamic Plant Ecology
+## Digitalising Data
+### Testing
 
+This project explores plant population dynamics and ecological modelling.
 This is my first webpage hosted on GitHub.
 
 ---
@@ -8,6 +11,5 @@ This is my first webpage hosted on GitHub.
 
 <script>
 function showMessage() {
-    alert("You clicked the button!");
-}
+    alert("You clicked the button!"); }
 </script>
